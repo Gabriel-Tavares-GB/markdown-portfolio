@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*My skills*
+
+_HTML_
+
+**CSS**
+
+__JavaScript__
+
+
+_I’m currently learning: Web development (**Front-end**) and System Analysis and Development_
